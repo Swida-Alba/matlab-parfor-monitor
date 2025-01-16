@@ -1,5 +1,5 @@
 # Progress monitor for MATLAB
-This is a simple progress monitor for MATLAB. It monitors the progress of __parfor__ loops or regular __for__ loops in MATLAB.
+It monitors the progress of __parfor__ loops or regular __for__ loops in MATLAB.
 
 ## INPUT arguments
 
